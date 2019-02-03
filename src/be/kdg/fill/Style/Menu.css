@@ -1,0 +1,23 @@
+.button {
+    -fx-background-color: #CE796B;
+    -fx-effect: dropshadow( one-pass-box, rgba(0,0,0,.75) , 10, 0 , 0 , 2 );
+    -fx-font-size: 25px;
+    -fx-background-radius: 5;
+    -fx-text-fill: #2D3142;
+    -fx-font-family: Rockwell;
+}
+
+.background{
+    -fx-background-color: #F9F9F9;
+}
+
+.selectLevel,.createLevel,.levelCompleted{
+    -fx-font-family: Rockwell;
+    -fx-font-size: 50px;
+}
+
+.hintText{
+    -fx-font-family: Rockwell;
+    -fx-font-size: 30px;
+}
+
